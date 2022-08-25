@@ -1,5 +1,4 @@
 import os
-from unittest.main import MAIN_EXAMPLES
 
 AGREGAR = 1
 INSERTAR = 2
